@@ -1,0 +1,15 @@
+{
+    "flashcards": [
+        {
+            "question": "What flower is red",
+            "answer": "rose",
+            "status": false
+        },
+        {
+            "question": "What colour is the sky",
+            "answer": "blue",
+            "status": false
+        }
+    ],
+    "name": "Flashcard deck name: "
+}

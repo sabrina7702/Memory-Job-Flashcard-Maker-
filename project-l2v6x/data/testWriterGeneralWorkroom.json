@@ -1,0 +1,15 @@
+{
+    "name": "Flashcard deck name: ",
+    "flashcards": [
+        {
+            "question": "What sound do dogs make",
+            "answer": "bark",
+            "status": false
+        },
+        {
+            "question": "What season has snow",
+            "answer": "winter",
+            "status": false
+        }
+    ]
+}
